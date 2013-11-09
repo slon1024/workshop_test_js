@@ -1,6 +1,6 @@
 # Workshop
 ## Introduction to JavaScript unit testing(for developers. Net)
-The goal: **to teach writing tests in JavaScript**.
+The goal: **to show how writing tests in JavaScript**.
 
 Today, JavaScript is not the way to write :) 
 ```javascript
