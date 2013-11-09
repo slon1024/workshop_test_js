@@ -1,5 +1,5 @@
-Workshop: introduction to JavaScript unit testing(for developers. Net).
-================
+# Workshop
+## Introduction to JavaScript unit testing(for developers. Net)
 The goal: **to teach writing tests in JavaScript**.
 
 Today, JavaScript is not the way to write :) 
@@ -13,9 +13,7 @@ Just a programming language that has used everywhere (on the client, server, mob
 
 ###Frameworks
 * [Jasmine](http://pivotal.github.io/jasmine/)
-* [Mocha](http://visionmedia.github.io/mocha/)
-...* [Should](https://github.com/visionmedia/should.js/)
-...* [Chai](http://chaijs.com/)
+* [Mocha](http://visionmedia.github.io/mocha/) + ([Should](https://github.com/visionmedia/should.js/), [Chai](http://chaijs.com/))
 * [QUnit](http://qunitjs.com/)
 * [Buster](http://busterjs.org/)
 
