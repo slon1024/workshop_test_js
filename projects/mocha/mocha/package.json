@@ -1,0 +1,16 @@
+{
+  "name": "mocha_turtorial",
+  "version": "1.0.0",
+  "description": "Turtorial for Mocha",
+  "author": "Vladimir Alekseichenko <vova@vova.me>",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha -w -r should -R nyan tests",
+    "rs": "mocha --reporters"
+  },
+  "devDependencies": {
+    "should": "~2.0.1",
+    "mocha": "~1.13.0",
+    "chai": "~1.8.1"
+  }
+}
