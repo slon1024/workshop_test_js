@@ -1,0 +1,9 @@
+{
+    "framework": "jasmine",
+    "src_files": [
+        "src/*.js",
+        "tests/*JasmineTests.js"
+        
+    ],
+    "launch_in_dev": ["Firefox"]
+}
