@@ -1,12 +1,14 @@
 # Workshop
-## Introduction to JavaScript unit testing(for developers. Net)
-The goal: **to show how writing tests in JavaScript**.
+## Goal: **Show how to write tests in JavaScript**.
 
-Today, JavaScript is not the way to write :) 
+It's an introduction to javascript unit testing  (for developers. Net).  
+
+### 
+Today javascript is not the way just to write:
 ```javascript
 document.writeln("Hello World!").
 ```
-Just a programming language that has used everywhere (on the client, server, mobile apps, etc.).
+There is a programming language that has used right now everywhere (on the client, server, mobile apps, etc).
 
 
 ##The workshop covered the following topics
