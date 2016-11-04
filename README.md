@@ -14,7 +14,7 @@ There is a programming language that has used right now everywhere (on the clien
 ##The workshop covered the following topics
 
 ###Frameworks
-* [Jasmine](http://pivotal.github.io/jasmine/)
+* [Jasmine](http://jasmine.github.io/)
 * [Mocha](http://visionmedia.github.io/mocha/) + ([Should](https://github.com/visionmedia/should.js/), [Chai](http://chaijs.com/))
 * [QUnit](http://qunitjs.com/)
 * [Buster](http://busterjs.org/)
